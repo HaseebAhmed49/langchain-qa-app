@@ -16,9 +16,10 @@ A simple **Q&A Application** using **FastAPI**, **LangChain**, and **OpenAI GPT-
 langchain-qa-app/
 │── frontend/
 │   ├── app.py  # Streamlit UI
-│── main.py      # FastAPI backend
+│── backend/
+│   ├── main.py  # FastAPI
+│   ├── .env
 │── requirements.txt  # Project dependencies
-│── .env         # Environment variables
 │── README.md    # Project documentation
 ```
 
