@@ -10,6 +10,26 @@ A simple **Q&A Application** using **FastAPI**, **LangChain**, and **OpenAI GPT-
 - 🔐 Uses `.env` file to store API keys securely.
 
 ---
+## Project Structure
+
+```sh
+langchain-qa-app/
+│── frontend/
+│   ├── app.py  # Streamlit UI
+│── main.py      # FastAPI backend
+│── requirements.txt  # Project dependencies
+│── .env         # Environment variables
+│── README.md    # Project documentation
+```
+
+---
+## Technologies Used
+* **FastAPI** for backend API
+* **Streamlit** for frontend UI
+* **LangChain** for AI-based responses
+* **OpenAI GPT-3.5-turbo** for answering questions
+
+---
 ## 📌 Prerequisites
 Ensure you have the following installed on your system:
 - **Python 3.13+**
@@ -76,6 +96,8 @@ This project is licensed under the MIT License.
 ---
 ## 📩 Contact
 For issues or suggestions, feel free to open an [issue](https://github.com/haseebahmed49/langchain-qa-app/issues) or reach out!
+* Email: haseebahmed02@gmail.com
+* LinkedIn/GitHub: /HaseebAhmed49
 
 💡 **Happy Coding!** 🚀
 
